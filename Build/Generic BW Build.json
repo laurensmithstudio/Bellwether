@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Cineware Test",
+"productVersion": "0.1",
+"dataUrl": "Generic BW Build.data.unityweb",
+"wasmCodeUrl": "Generic BW Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Generic BW Build.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.4f1"
+}
